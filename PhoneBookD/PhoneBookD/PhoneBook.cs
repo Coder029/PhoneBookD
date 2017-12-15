@@ -93,5 +93,19 @@ namespace PhoneBookD
                     phoneBookBindingSource.RemoveCurrent();
             }
         }
+
+        private void functiecarenufacenimic()
+        {
+            /*
+             lskdgfhksdfsd
+             \fsd
+             fsd
+             fsd
+             fs
+             df
+             sdf
+             sdf
+             sd*/
+        }
     }
 }
